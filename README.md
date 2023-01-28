@@ -1,7 +1,7 @@
 [![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2022/01/Python.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rajeev Singh Rawat</h1>
 <h3 align="center">I'm a motivated student that enjoys learning new things every day and is simply looking to expand my skill set.</h3>
-<img align="center"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="left"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeev541" alt="rajeev541" /></a> </p>
